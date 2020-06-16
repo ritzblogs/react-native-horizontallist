@@ -1,7 +1,7 @@
 # react-native-horizontallist
 
 <p align="center">
-  <img width="300" height="600" src="https://github.com/ritzblogs/react-native-horizontallist/blob/master/horizontal.jpg">
+  <img width="300" height="600" src="https://github.com/ritzblogs/react-native-horizontallist/blob/master/horizontalimage.jpg">
 </p>
 
 <p align="center">
