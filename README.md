@@ -12,6 +12,7 @@
   <img width="300" height="600" src="https://github.com/ritzblogs/react-native-horizontallist/blob/master/horizontalim2.jpg">
 </p>
 
+Find detailed description - https://abodeofmystories.blogspot.com/2020/06/react-native-horizontal-list.html
 
 ## Install at local
 Open Terminal, then type command:  
